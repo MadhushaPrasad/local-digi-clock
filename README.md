@@ -1,13 +1,13 @@
 # react-digital-clock
-A simple digital clock implementation in React.
+A simple Local date and Time digital clock implementation in React.
 
 # Installation
-npm install local-digi-clock
+npm install digi-clock
 
 ## Usage
 1. Import component : 
 
-       import Clock from 'local-digi-clock';
+       import DigitalClock from 'digi-clock';
 2. Use component    :  
 
-            <Clock />
+            <DigitalClock />

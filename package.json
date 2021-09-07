@@ -1,6 +1,4 @@
-{
-  "name": "local-digi-clock",
-  "version": "1.0.0",
+
   "description": "A simple Local date and Time digital clock implementation in React.",
   "main": "digitalClock.js",
   "scripts": {
