@@ -1,4 +1,6 @@
-
+{
+  "name": "digi-clock",
+  "version": "1.0.2",
   "description": "A simple Local date and Time digital clock implementation in React.",
   "main": "digitalClock.js",
   "scripts": {
@@ -9,6 +11,11 @@
     "url": "git+https://github.com/MadhushaPrasad/local-digi-clock.git"
   },
   "keywords": [
+    "react",
+    "date",
+    "time",
+    "clock",
+    "timezones",
     "digital-clock"
   ],
   "author": "MadhushaPrasad",
@@ -20,5 +27,17 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^4.8.0"
   }
 }
